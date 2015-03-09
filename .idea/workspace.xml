@@ -24,21 +24,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="highest_palindrome.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/highest_palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="random_generator.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/random_generator.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.6402439" vertical-offset="0" max-vertical-offset="492">
+              <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bit_manipulation_5_3.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bit_manipulation_5_3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_science_numpy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data_science_numpy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1605">
+              <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="Data_science_pandas3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data_science_pandas3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+            <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="840">
               <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="print_all_combination_answer.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="print_all_combination_answer.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/print_all_combination_answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7012195" vertical-offset="0" max-vertical-offset="540">
-              <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -56,6 +96,8 @@
         <option value="$PROJECT_DIR$/Data_science_pandas3.py" />
         <option value="$PROJECT_DIR$/array_divide_selection.py" />
         <option value="$PROJECT_DIR$/print_all_combination_answer.py" />
+        <option value="$PROJECT_DIR$/highest_palindrome.py" />
+        <option value="$PROJECT_DIR$/random_generator.py" />
       </list>
     </option>
   </component>
@@ -115,26 +157,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
   </component>
-  <component name="RunManager" selected="Python.array_divide_selection">
-    <configuration default="false" name="data_science" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Cracking_the_coding_interview" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_science_numpy.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.random_generator">
     <configuration default="false" name="data_science_pandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -205,6 +228,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Cracking_the_coding_interview" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/print_all_combination_answer.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="random_generator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cracking_the_coding_interview" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/random_generator.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -334,19 +376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.data_science" />
-      <item index="1" class="java.lang.String" itemvalue="Python.data_science_pandas" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Data_science_pandas2" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Data_science_pandas3" />
-      <item index="4" class="java.lang.String" itemvalue="Python.array_divide_selection" />
+      <item index="0" class="java.lang.String" itemvalue="Python.data_science_pandas" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Data_science_pandas2" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Data_science_pandas3" />
+      <item index="3" class="java.lang.String" itemvalue="Python.array_divide_selection" />
+      <item index="4" class="java.lang.String" itemvalue="Python.random_generator" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.array_divide_selection" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Data_science_pandas3" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Data_science_pandas2" />
-        <item index="3" class="java.lang.String" itemvalue="Python.data_science_pandas" />
-        <item index="4" class="java.lang.String" itemvalue="Python.data_science" />
+        <item index="0" class="java.lang.String" itemvalue="Python.random_generator" />
+        <item index="1" class="java.lang.String" itemvalue="Python.array_divide_selection" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Data_science_pandas3" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Data_science_pandas2" />
+        <item index="4" class="java.lang.String" itemvalue="Python.data_science_pandas" />
       </list>
     </recent_temporary>
   </component>
@@ -422,14 +464,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data_science_numpy.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.6158537" vertical-offset="720" max-vertical-offset="1605">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/data_science_pandas.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.7073171" vertical-offset="0" max-vertical-offset="930">
@@ -438,9 +472,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/print_all_combination_answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="540">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data_science_pandas2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.18902439" vertical-offset="423" max-vertical-offset="915">
+        <state vertical-scroll-proportion="0.12195122" vertical-offset="270" max-vertical-offset="915">
           <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
           <folding>
             <element signature="e#23#41#0" expanded="true" />
@@ -448,18 +490,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bit_manipulation_5_3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="492">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data_science_numpy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="720" max-vertical-offset="1605">
+          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data_science_pandas3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="840">
+        <state vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="840">
           <caret line="48" column="18" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/print_all_combination_answer.py">
+    <entry file="file://$PROJECT_DIR$/highest_palindrome.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7012195" vertical-offset="0" max-vertical-offset="540">
-          <caret line="23" column="43" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/random_generator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6402439" vertical-offset="0" max-vertical-offset="492">
+          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
           <folding />
         </state>
       </provider>
