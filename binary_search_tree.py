@@ -80,6 +80,12 @@ class BinaryTree:
         if self.rightChild:
             self.preOrder()
 
+def height(tree):   #you can print out the height of the tree
+    if tree == None:
+        return -1
+    else:
+        return 1 + max(height(tree.leftChild), height(tree.rightChild))
+
 k = BinaryTree(10)
 k.insertLeft(20)
 k.insertLeft(5)
@@ -90,13 +96,8 @@ k.insertRight(30)
 k.endLeftChild().insertLeft(30)  #you can go the extreme of the left child and insert some values there
 #print k.getRootValue()   #K is always the top of the root and it is always pointing to the top value
 
-
-
-
-
-
-
-
+#you can create whatever type of tree you want to create here
+print height(k)
 
 
 
