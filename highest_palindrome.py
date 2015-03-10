@@ -33,7 +33,7 @@ def Palindrome(text):
 
     print LP(i, j)
 
-Palindrome("ABPAGAPABCDE")
+Palindrome("")
 
 
 
