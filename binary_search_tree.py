@@ -49,16 +49,16 @@ class BinaryTree:
 
     def inOrder(self):   #basically inOrder goes from left center right
         if self.leftChild:
-            self.inOrder()
+            self.leftChild.inOrder()
         print self.value
         if self.rightChild:
-            self.inOrder()
+            self.rightChild.inOrder()
 
     def postOrder(self):
         if self.leftChild:
-            self.postOrder()
+            self.leftChild.postOrder()
         if self.rightChild:
-            self.postOrder()
+            self.rightChild.postOrder()
         print self.value
 
     def endLeftChild(self):  #Go the extreme left value
@@ -76,9 +76,9 @@ class BinaryTree:
     def preOrder(self):
         print self.value
         if self.leftChild:
-            self.preOrder()
+            self.leftChild.preOrder()
         if self.rightChild:
-            self.preOrder()
+            self.rightChild.preOrder()
 
 def height(tree):   #you can print out the height of the tree
     if tree == None:
@@ -88,16 +88,19 @@ def height(tree):   #you can print out the height of the tree
 
 k = BinaryTree(10)
 k.insertLeft(20)
-k.insertLeft(5)
-k.insertLeft(4)
-k.insertLeft(3)
-k.insertLeft(2)
+#k.insertLeft(5)
+#k.insertLeft(4)
+#k.insertLeft(3)
+#k.insertLeft(2)
 k.insertRight(30)
-k.endLeftChild().insertLeft(30)  #you can go the extreme of the left child and insert some values there
+#k.endLeftChild().insertLeft(30)  #you can go the extreme of the left child and insert some values there
 #print k.getRootValue()   #K is always the top of the root and it is always pointing to the top value
+k.inOrder()  #use this http://www.codeskulptor.org/viz/index.html for checking the visualization of it
 
 #you can create whatever type of tree you want to create here
-print height(k)
+#print height(k)
+
+
 
 
 
