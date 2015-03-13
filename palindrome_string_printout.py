@@ -57,7 +57,7 @@ def Palindrome_print(string):
 
     return count
 
-Palindrome("")
+Palindrome("AADAA")
 
 
 
