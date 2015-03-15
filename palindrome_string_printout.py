@@ -28,7 +28,7 @@ def Palindrome(text):
         elif j == (i + 1) and text[i] == text[j]:
             return 2
         elif text[i] == text[j]:
-            palindrome.append(list[i:j+1])
+            palindrome.append(list[i:j + 1])
             return LP(i+1, j-1) + 2
         else:
             return max(LP(i+1, j), LP(i, j-1))

@@ -1,5 +1,4 @@
 
-
 import xlrd
 from datetime import datetime
 
@@ -75,6 +74,7 @@ def createHTML():
         file_location.write(inf)
         file_location.close()
 
-
 createHTML()
+
+
 
