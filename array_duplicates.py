@@ -7,24 +7,22 @@ __author__ = 'rakesh'
 
 a = [7, 2, 2, 3, 3, 4, 4, 55, 55, 100, 100]
 
-
 b = 0
-
-for num in a :    #use XOR to iterate over the do the solution
-
-    print "b = %d" %b
-    print "num = %d" %num
-    b ^= num
-    print "result = %d" %b
-    print '\n'
 
 #for i in range(len(a)):
 
-
-#you will find the forever alone element in the array 
-
+#you will find the forever alone element in the array
 
 
+def XOR():
 
+    global b
+    for num in a:    #use XOR to iterate over the do the solution
+
+        print "b = %d" %b
+        print "num = %d" %num  #o(n) complexity
+        b ^= num
+        print "result = %d" %b
+        print '\n'
 
 
