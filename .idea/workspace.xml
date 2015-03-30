@@ -24,21 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="binary_search_tree.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/binary_search_tree.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="990" max-vertical-offset="1725">
-              <caret line="80" column="38" selection-start-line="75" selection-start-column="4" selection-end-line="80" selection-end-column="38" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="binary_search_implementation.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/binary_search_implementation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1666666" vertical-offset="1035" max-vertical-offset="1905">
-              <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+            <state vertical-scroll-proportion="3.4" vertical-offset="1485" max-vertical-offset="3465">
+              <caret line="201" column="14" selection-start-line="201" selection-start-column="14" selection-end-line="201" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -57,7 +47,6 @@
         <option value="$PROJECT_DIR$/print_all_combination_answer.py" />
         <option value="$PROJECT_DIR$/random_generator.py" />
         <option value="$PROJECT_DIR$/highest_palindrome.py" />
-        <option value="$PROJECT_DIR$/priority_queue.py" />
         <option value="$PROJECT_DIR$/binary_search_tree.py" />
         <option value="$PROJECT_DIR$/binary_heap.py" />
         <option value="$PROJECT_DIR$/palindrome_string_printout.py" />
@@ -71,6 +60,8 @@
         <option value="$PROJECT_DIR$/dictionary_of_words.py" />
         <option value="$PROJECT_DIR$/AP_missing.py" />
         <option value="$PROJECT_DIR$/number_of_primes.py" />
+        <option value="$PROJECT_DIR$/priority_queue.py" />
+        <option value="$USER_HOME$/Documents/python-algorithms/python-algorithms-master/algorithms/binary_tree.py" />
         <option value="$PROJECT_DIR$/binary_search_implementation.py" />
       </list>
     </option>
@@ -128,49 +119,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/python-algorithms/python-algorithms-master/algorithms/binary_tree.py" />
     <property name="recentsLimit" value="5" />
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager" selected="Python.binary_search_implementation">
-    <configuration default="false" name="subsets" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Cracking_the_coding_interview" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/subsets.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="dictionary_of_words" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Cracking_the_coding_interview" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionary_of_words.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <RunnerSettings RunnerId="PythonRunner" />
-      <ConfigurationWrapper RunnerId="PythonRunner" />
-      <method />
-    </configuration>
     <configuration default="false" name="AP_missing" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,6 +175,44 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Cracking_the_coding_interview" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_search_implementation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="priority_queue" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cracking_the_coding_interview" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/priority_queue.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="binary_tree" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Documents/python-algorithms/python-algorithms-master/algorithms" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Cracking_the_coding_interview" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Documents/python-algorithms/python-algorithms-master/algorithms/binary_tree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -351,19 +342,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.subsets" />
-      <item index="1" class="java.lang.String" itemvalue="Python.dictionary_of_words" />
-      <item index="2" class="java.lang.String" itemvalue="Python.AP_missing" />
-      <item index="3" class="java.lang.String" itemvalue="Python.number_of_primes" />
-      <item index="4" class="java.lang.String" itemvalue="Python.binary_search_implementation" />
+      <item index="0" class="java.lang.String" itemvalue="Python.AP_missing" />
+      <item index="1" class="java.lang.String" itemvalue="Python.number_of_primes" />
+      <item index="2" class="java.lang.String" itemvalue="Python.binary_search_implementation" />
+      <item index="3" class="java.lang.String" itemvalue="Python.priority_queue" />
+      <item index="4" class="java.lang.String" itemvalue="Python.binary_tree" />
     </list>
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="Python.binary_search_implementation" />
-        <item index="1" class="java.lang.String" itemvalue="Python.number_of_primes" />
-        <item index="2" class="java.lang.String" itemvalue="Python.AP_missing" />
-        <item index="3" class="java.lang.String" itemvalue="Python.dictionary_of_words" />
-        <item index="4" class="java.lang.String" itemvalue="Python.subsets" />
+        <item index="1" class="java.lang.String" itemvalue="Python.binary_tree" />
+        <item index="2" class="java.lang.String" itemvalue="Python.priority_queue" />
+        <item index="3" class="java.lang.String" itemvalue="Python.number_of_primes" />
+        <item index="4" class="java.lang.String" itemvalue="Python.AP_missing" />
       </list>
     </recent_temporary>
   </component>
@@ -640,14 +631,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/priority_queue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13333334" vertical-offset="0" max-vertical-offset="450">
-          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python_dictionary_hash.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.9313501" vertical-offset="1243" max-vertical-offset="1830">
@@ -744,18 +727,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/priority_queue.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4" vertical-offset="0" max-vertical-offset="450">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/binary_search_tree.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="990" max-vertical-offset="1725">
-          <caret line="80" column="38" selection-start-line="75" selection-start-column="4" selection-end-line="80" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.36666667" vertical-offset="1125" max-vertical-offset="1725">
+          <caret line="86" column="71" selection-start-line="82" selection-start-column="0" selection-end-line="86" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Documents/python-algorithms/python-algorithms-master/algorithms/binary_tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.06666667" vertical-offset="675" max-vertical-offset="2880">
+          <caret line="47" column="34" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/binary_search_implementation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1666666" vertical-offset="1035" max-vertical-offset="1905">
-          <caret line="104" column="0" selection-start-line="104" selection-start-column="0" selection-end-line="104" selection-end-column="0" />
+        <state vertical-scroll-proportion="3.4" vertical-offset="1485" max-vertical-offset="3465">
+          <caret line="201" column="14" selection-start-line="201" selection-start-column="14" selection-end-line="201" selection-end-column="14" />
           <folding />
         </state>
       </provider>
