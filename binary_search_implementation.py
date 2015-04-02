@@ -1,7 +1,5 @@
 __author__ = 'rakesh'
 
-import pybst
-
 
 class BinarySearchTree:   #now you can perform any type of opertion on this tree
 
@@ -164,6 +162,7 @@ class BinarySearchTree:   #now you can perform any type of opertion on this tree
                 self.right.compare_two_tree(node.right)  #if it printouts all the trees values then they are equal
         #just use simply use the inorder traversal and compare each value as we go along
 
+
     def children_count(self):
 
         count = 0
@@ -188,8 +187,11 @@ root.insert(3)
 root.insert(10)
 root.insert(2)
 root.insert(4)
+root.insert(5)
 root.insert(9)
 root.insert(11)
+root.insert(13)
+root.insert(14)
 
 #root.delete(3)  # 1 is deleted from the binary tree
 
@@ -201,12 +203,17 @@ node.insert(4)
 node.insert(9)
 node.insert(11)
 
-root.compare_two_tree(node)
+#root.compare_two_tree(node)
 
+p = height(root.left)
 
+q = height(root.right)
 
+print "Total diameter of the tree is %d" %(p + q + 1)   #diameter of the tree
 
+#for finding diameter the length of right subtree and length of left subtree and add 1
 
+#the height of tree is calculated recursively
 
 
 
