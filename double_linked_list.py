@@ -35,7 +35,7 @@ class first:
             self.head.left = temp
             self.head = temp
 
-    def circular(self):   #for making it a cicular linked list 
+    def circular(self):   #for making it a cicular linked list
         first = self.head
         while first.right != None:
             first = first.right
@@ -56,6 +56,10 @@ mylist.add(2)
 mylist.add(3)
 mylist.add(4)
 mylist.add(5)
+mylist.add(6)
+mylist.add(7)
+mylist.add(8)
+mylist.add(9)
 
 mylist.traverse()
 mylist.circular()
