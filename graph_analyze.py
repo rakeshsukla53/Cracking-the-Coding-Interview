@@ -10,7 +10,6 @@ graph['1'].append('x')   #okay so now we can use this functionality to create fo
 print graph
 '''
 
-
 def graph(A):
 
     path = {}
@@ -25,8 +24,55 @@ def graph(A):
         else:
             path[A[i][0]].append(A[i][1])
 
-    print path
+    return path
 
-graph([('A', 'B'), ('A', 'C'), ('B', 'C'), ('B', 'D'), ('C', 'D'), ('D', 'C'), ('E', 'F'), ('F', 'C')])
+def pathAll(tree, source, destination, path_all = []):  #solved using recursion
 
+    path_all = path_all + list(source)
 
+    if tree.get(source) == None:
+
+        return
+
+    else:
+        c = tree.get(source)
+
+        for i in range(len(c)):
+
+            if destination == c[i]:
+
+                path_all.append(destination)
+                print path_all
+                return
+
+            else:
+                pathAll(tree, c[i], destination, path_all)
+
+tree = graph([('A', 'B'), ('A', 'C'), ('B', 'C'), ('B', 'D'), ('C', 'D'), ('D', 'C'), ('E', 'F'), ('F', 'C')])
+
+pathAll(tree, 'E', 'C')
+
+'''
+Output of my graph and how it is connected here. This program is only work for weighted graph and how it can be
+{'A': ['B', 'C'],
+ 'C': ['D'],
+ 'B': ['C', 'D'],
+ 'E': ['F'],
+ 'D': ['C'],
+ 'F': ['C']}
+'''
+
+'''
+if tree.get(source) == None:
+
+        return
+
+    else:
+        if destination in tree.get(source):
+            path_all.append([source, destination])
+
+        else:
+            for i in range(len(tree.get(source))):
+                path_all(tree, tree.get(source)[i], destination)
+
+'''
